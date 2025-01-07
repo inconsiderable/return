@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/issues/static/css/main.c746e54a.css",
-    "main.js": "/issues/static/js/main.bdbe91c5.js",
-    "static/js/140.fd32dfe8.chunk.js": "/issues/static/js/140.fd32dfe8.chunk.js",
-    "static/js/546.e09ffd2f.chunk.js": "/issues/static/js/546.e09ffd2f.chunk.js",
-    "static/js/834.f8c1cdab.chunk.js": "/issues/static/js/834.f8c1cdab.chunk.js",
-    "static/js/348.4a39558f.chunk.js": "/issues/static/js/348.4a39558f.chunk.js",
-    "static/js/255.bd5ee1b7.chunk.js": "/issues/static/js/255.bd5ee1b7.chunk.js",
-    "static/js/262.f54780d3.chunk.js": "/issues/static/js/262.f54780d3.chunk.js",
-    "static/js/189.0467c1c1.chunk.js": "/issues/static/js/189.0467c1c1.chunk.js",
-    "static/js/693.55efcfc8.chunk.js": "/issues/static/js/693.55efcfc8.chunk.js",
-    "static/js/206.ed0b238b.chunk.js": "/issues/static/js/206.ed0b238b.chunk.js",
-    "service-worker.js": "/issues/service-worker.js",
-    "index.html": "/issues/index.html"
+    "main.css": "/notes/static/css/main.c746e54a.css",
+    "main.js": "/notes/static/js/main.6b1f356e.js",
+    "static/js/140.1f5270e4.chunk.js": "/notes/static/js/140.1f5270e4.chunk.js",
+    "static/js/546.32783171.chunk.js": "/notes/static/js/546.32783171.chunk.js",
+    "static/js/834.755f6f1b.chunk.js": "/notes/static/js/834.755f6f1b.chunk.js",
+    "static/js/348.f795a6e1.chunk.js": "/notes/static/js/348.f795a6e1.chunk.js",
+    "static/js/255.83ddcd6d.chunk.js": "/notes/static/js/255.83ddcd6d.chunk.js",
+    "static/js/262.6eb98f67.chunk.js": "/notes/static/js/262.6eb98f67.chunk.js",
+    "static/js/189.c90be67e.chunk.js": "/notes/static/js/189.c90be67e.chunk.js",
+    "static/js/693.0e63263a.chunk.js": "/notes/static/js/693.0e63263a.chunk.js",
+    "static/js/206.835aa705.chunk.js": "/notes/static/js/206.835aa705.chunk.js",
+    "service-worker.js": "/notes/service-worker.js",
+    "index.html": "/notes/index.html"
   },
   "entrypoints": [
     "static/css/main.c746e54a.css",
-    "static/js/main.bdbe91c5.js"
+    "static/js/main.6b1f356e.js"
   ]
 }
