@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/notes/static/css/main.c746e54a.css",
-    "main.js": "/notes/static/js/main.6c04f265.js",
-    "static/js/140.1f5270e4.chunk.js": "/notes/static/js/140.1f5270e4.chunk.js",
-    "static/js/546.32783171.chunk.js": "/notes/static/js/546.32783171.chunk.js",
-    "static/js/834.755f6f1b.chunk.js": "/notes/static/js/834.755f6f1b.chunk.js",
-    "static/js/348.f795a6e1.chunk.js": "/notes/static/js/348.f795a6e1.chunk.js",
-    "static/js/255.83ddcd6d.chunk.js": "/notes/static/js/255.83ddcd6d.chunk.js",
-    "static/js/262.6eb98f67.chunk.js": "/notes/static/js/262.6eb98f67.chunk.js",
-    "static/js/189.c90be67e.chunk.js": "/notes/static/js/189.c90be67e.chunk.js",
-    "static/js/693.0e63263a.chunk.js": "/notes/static/js/693.0e63263a.chunk.js",
-    "static/js/206.835aa705.chunk.js": "/notes/static/js/206.835aa705.chunk.js",
-    "service-worker.js": "/notes/service-worker.js",
-    "index.html": "/notes/index.html"
+    "main.css": "/points/static/css/main.c746e54a.css",
+    "main.js": "/points/static/js/main.4706a523.js",
+    "static/js/140.0df537ad.chunk.js": "/points/static/js/140.0df537ad.chunk.js",
+    "static/js/546.6da1ed0a.chunk.js": "/points/static/js/546.6da1ed0a.chunk.js",
+    "static/js/834.cc1f97cb.chunk.js": "/points/static/js/834.cc1f97cb.chunk.js",
+    "static/js/348.dde51373.chunk.js": "/points/static/js/348.dde51373.chunk.js",
+    "static/js/255.1e4a85db.chunk.js": "/points/static/js/255.1e4a85db.chunk.js",
+    "static/js/262.0dd23d58.chunk.js": "/points/static/js/262.0dd23d58.chunk.js",
+    "static/js/189.af65a7c0.chunk.js": "/points/static/js/189.af65a7c0.chunk.js",
+    "static/js/693.81ec52e0.chunk.js": "/points/static/js/693.81ec52e0.chunk.js",
+    "static/js/206.e8cc7e81.chunk.js": "/points/static/js/206.e8cc7e81.chunk.js",
+    "service-worker.js": "/points/service-worker.js",
+    "index.html": "/points/index.html"
   },
   "entrypoints": [
     "static/css/main.c746e54a.css",
-    "static/js/main.6c04f265.js"
+    "static/js/main.4706a523.js"
   ]
 }
