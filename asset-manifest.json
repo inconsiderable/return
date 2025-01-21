@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/annotations/static/css/main.c746e54a.css",
-    "main.js": "/annotations/static/js/main.8b26b295.js",
-    "static/js/140.2e6b70c6.chunk.js": "/annotations/static/js/140.2e6b70c6.chunk.js",
-    "static/js/546.699c262a.chunk.js": "/annotations/static/js/546.699c262a.chunk.js",
-    "static/js/834.9e679d15.chunk.js": "/annotations/static/js/834.9e679d15.chunk.js",
-    "static/js/348.cb4b2f60.chunk.js": "/annotations/static/js/348.cb4b2f60.chunk.js",
-    "static/js/255.514ff1b3.chunk.js": "/annotations/static/js/255.514ff1b3.chunk.js",
-    "static/js/262.e535cae7.chunk.js": "/annotations/static/js/262.e535cae7.chunk.js",
-    "static/js/189.5b4814a7.chunk.js": "/annotations/static/js/189.5b4814a7.chunk.js",
-    "static/js/693.df704263.chunk.js": "/annotations/static/js/693.df704263.chunk.js",
-    "static/js/206.6a82fa44.chunk.js": "/annotations/static/js/206.6a82fa44.chunk.js",
-    "service-worker.js": "/annotations/service-worker.js",
-    "index.html": "/annotations/index.html"
+    "main.css": "/appreciations/static/css/main.c746e54a.css",
+    "main.js": "/appreciations/static/js/main.103e4f96.js",
+    "static/js/140.11616004.chunk.js": "/appreciations/static/js/140.11616004.chunk.js",
+    "static/js/546.f2e43e6d.chunk.js": "/appreciations/static/js/546.f2e43e6d.chunk.js",
+    "static/js/834.466866f6.chunk.js": "/appreciations/static/js/834.466866f6.chunk.js",
+    "static/js/348.fce2cdee.chunk.js": "/appreciations/static/js/348.fce2cdee.chunk.js",
+    "static/js/255.2f5ed30a.chunk.js": "/appreciations/static/js/255.2f5ed30a.chunk.js",
+    "static/js/262.d7a6f585.chunk.js": "/appreciations/static/js/262.d7a6f585.chunk.js",
+    "static/js/189.445a285e.chunk.js": "/appreciations/static/js/189.445a285e.chunk.js",
+    "static/js/693.54168be9.chunk.js": "/appreciations/static/js/693.54168be9.chunk.js",
+    "static/js/206.120658e3.chunk.js": "/appreciations/static/js/206.120658e3.chunk.js",
+    "service-worker.js": "/appreciations/service-worker.js",
+    "index.html": "/appreciations/index.html"
   },
   "entrypoints": [
     "static/css/main.c746e54a.css",
-    "static/js/main.8b26b295.js"
+    "static/js/main.103e4f96.js"
   ]
 }
