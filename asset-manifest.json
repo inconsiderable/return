@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontier/static/css/main.c746e54a.css",
-    "main.js": "/frontier/static/js/main.bde99090.js",
+    "main.js": "/frontier/static/js/main.79bdc708.js",
     "static/js/140.f180c82b.chunk.js": "/frontier/static/js/140.f180c82b.chunk.js",
     "static/js/546.8b15b10e.chunk.js": "/frontier/static/js/546.8b15b10e.chunk.js",
     "static/js/834.8370f8a2.chunk.js": "/frontier/static/js/834.8370f8a2.chunk.js",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.c746e54a.css",
-    "static/js/main.bde99090.js"
+    "static/js/main.79bdc708.js"
   ]
 }
