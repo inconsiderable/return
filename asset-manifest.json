@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/considerations/static/css/main.c746e54a.css",
-    "main.js": "/considerations/static/js/main.0df73558.js",
-    "static/js/140.3cc0c81f.chunk.js": "/considerations/static/js/140.3cc0c81f.chunk.js",
-    "static/js/546.bbeab827.chunk.js": "/considerations/static/js/546.bbeab827.chunk.js",
-    "static/js/834.d96b8914.chunk.js": "/considerations/static/js/834.d96b8914.chunk.js",
-    "static/js/348.d3380673.chunk.js": "/considerations/static/js/348.d3380673.chunk.js",
-    "static/js/255.aec43184.chunk.js": "/considerations/static/js/255.aec43184.chunk.js",
-    "static/js/262.50b75dd5.chunk.js": "/considerations/static/js/262.50b75dd5.chunk.js",
-    "static/js/189.30b05672.chunk.js": "/considerations/static/js/189.30b05672.chunk.js",
-    "static/js/693.2ebec188.chunk.js": "/considerations/static/js/693.2ebec188.chunk.js",
-    "static/js/206.64d5e2d1.chunk.js": "/considerations/static/js/206.64d5e2d1.chunk.js",
-    "service-worker.js": "/considerations/service-worker.js",
-    "index.html": "/considerations/index.html"
+    "main.css": "/dwellings/static/css/main.c746e54a.css",
+    "main.js": "/dwellings/static/js/main.ed80e54a.js",
+    "static/js/140.94d68eda.chunk.js": "/dwellings/static/js/140.94d68eda.chunk.js",
+    "static/js/546.a611145f.chunk.js": "/dwellings/static/js/546.a611145f.chunk.js",
+    "static/js/834.dc171d50.chunk.js": "/dwellings/static/js/834.dc171d50.chunk.js",
+    "static/js/348.cc75b624.chunk.js": "/dwellings/static/js/348.cc75b624.chunk.js",
+    "static/js/255.e7df7731.chunk.js": "/dwellings/static/js/255.e7df7731.chunk.js",
+    "static/js/262.d7f8f744.chunk.js": "/dwellings/static/js/262.d7f8f744.chunk.js",
+    "static/js/189.f27d3a1e.chunk.js": "/dwellings/static/js/189.f27d3a1e.chunk.js",
+    "static/js/693.ad6828b2.chunk.js": "/dwellings/static/js/693.ad6828b2.chunk.js",
+    "static/js/206.ef2e4cf7.chunk.js": "/dwellings/static/js/206.ef2e4cf7.chunk.js",
+    "service-worker.js": "/dwellings/service-worker.js",
+    "index.html": "/dwellings/index.html"
   },
   "entrypoints": [
     "static/css/main.c746e54a.css",
-    "static/js/main.0df73558.js"
+    "static/js/main.ed80e54a.js"
   ]
 }
