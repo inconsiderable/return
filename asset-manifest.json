@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dwellings/static/css/main.c746e54a.css",
-    "main.js": "/dwellings/static/js/main.ed80e54a.js",
+    "main.js": "/dwellings/static/js/main.c8f71133.js",
     "static/js/140.94d68eda.chunk.js": "/dwellings/static/js/140.94d68eda.chunk.js",
     "static/js/546.a611145f.chunk.js": "/dwellings/static/js/546.a611145f.chunk.js",
     "static/js/834.dc171d50.chunk.js": "/dwellings/static/js/834.dc171d50.chunk.js",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.c746e54a.css",
-    "static/js/main.ed80e54a.js"
+    "static/js/main.c8f71133.js"
   ]
 }
